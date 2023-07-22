@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+body{
+background-color: black;
+
+
+
+}
+
+h1{
+color: red;
+margin-left: 36px;
+margin-top: 36px;
+font-size: 30px;
+
+
+}
+
+header{
+margin-top: 0;
+margin-right: 60px;
+margin-left: 1000px;
+color: black;
+cursor: pointer;
+
+}
+
+h2{
+color:#fff;
+margin-left: 700px;
+margin-top: 200px;
+font-size: 50px;
+
+}
+
+.logo{
+    margin-left: 500px;
+    margin-right: 36px;
+    margin-top: 60px;
+}
+
+.azul{
+margin-right: 30px;
+width: 150px;
+height: auto;
+cursor: pointer;
+}
+
+.familia{
+    margin-right: 30px;
+    width: 150px;
+    height: auto;
+    align-items: center;
+    cursor: pointer;
+}
+
+.amarelo{
+    margin-right: 30px;
+    width: 150px;
+    height: auto;
+    cursor: pointer;
+}
+
+.vermelho{
+    margin-right: 30px;
+width: 150px;
+height: auto;
+cursor: pointer;
+}
+
+.kids{
+    margin-right: 30px;
+    width: 145px;
+    height: auto;
+    cursor: pointer;
+}
+
+.figuras{
+    margin-top: 20px;
+    margin-left: 530px;
+    
+    display: flex;
+   
+   
+}
+
+.tiago{
+    font-size: 30px;
+    margin-right: 100px;
+    color:#fff;
+    
+}
+
+.familia1{
+    font-size: 30px;
+    color:#fff;
+    margin-right: 100px;
+    
+   
+}
+
+.gisele{
+    font-size: 30px;
+    color:#fff;
+    margin-right: 100px;
+    
+}
+
+.pedro{
+    font-size: 30px;
+    color:#fff;
+    margin-right: 100px;
+  
+}
+
+.kids1{
+    font-size: 30px;
+    color:#fff;
+    margin-right: 100px;
+    
+}
