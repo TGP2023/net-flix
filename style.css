@@ -6,53 +6,45 @@
 }
 
 
-body{
-background-color: black;
+body {
+    background-color: black;
 
 
 
 }
 
-h1{
-color: red;
-margin-left: 36px;
-margin-top: 36px;
-font-size: 30px;
+.net {
+    
+    margin-left: 36px;
+    margin-top: 36px;
+    
 
 
 }
 
-header{
-margin-top: 0;
-margin-right: 60px;
-margin-left: 1000px;
-color: black;
-cursor: pointer;
+
+h2 {
+    color: #fff;
+    margin-left: 700px;
+    margin-top: 150px;
+    font-size: 50px;
 
 }
 
-h2{
-color:#fff;
-margin-left: 700px;
-margin-top: 200px;
-font-size: 50px;
-
-}
-
-.logo{
+.logo {
     margin-left: 500px;
     margin-right: 36px;
     margin-top: 60px;
 }
 
-.azul{
-margin-right: 30px;
-width: 150px;
-height: auto;
-cursor: pointer;
+.azul {
+    margin-right: 30px;
+    width: 150px;
+    height: auto;
+    cursor: pointer;
 }
 
-.familia{
+.familia {
     margin-right: 30px;
     width: 150px;
     height: auto;
@@ -60,68 +52,118 @@ cursor: pointer;
     cursor: pointer;
 }
 
-.amarelo{
+.amarelo {
     margin-right: 30px;
     width: 150px;
     height: auto;
     cursor: pointer;
 }
 
-.vermelho{
+.vermelho {
     margin-right: 30px;
-width: 150px;
-height: auto;
-cursor: pointer;
+    width: 150px;
+    height: auto;
+    cursor: pointer;
 }
 
-.kids{
+.kids {
     margin-right: 30px;
     width: 145px;
     height: auto;
     cursor: pointer;
 }
 
-.figuras{
+.nomes {
     margin-top: 20px;
     margin-left: 530px;
-    
     display: flex;
+
+
+}
+
+.tiago {
+    font-size: 30px;
+    margin-right: 100px;
+    color: #fff;
+
+}
+
+.familia1 {
+    font-size: 30px;
+    color: #fff;
+    margin-right: 100px;
+
+
+}
+
+.gisele {
+    font-size: 30px;
+    color: #fff;
+    margin-right: 100px;
+
+}
+
+.pedro {
+    font-size: 30px;
+    color: #fff;
+    margin-right: 100px;
+
+}
+
+.kids1 {
+    font-size: 30px;
+    color: #fff;
+    margin-right: 100px;
+
+}
+
+.azul:hover {
+    opacity: 0.8;
+
+}
+
+.familia:hover {
+    opacity: 0.8;
+
+}
+
+.amarelo:hover {
+    opacity: 0.8;
+
+}
+
+.vermelho:hover {
+    opacity: 0.8;
+
+}
+
+.kids:hover {
+    opacity: 0.8;
+
+}
+
+button {
+    margin-left: 800px;
+    margin-top: 80px;
    
-   
+    font-size: 20px;
+    width: 300px;
+    height: 50px;
+    background: transparent;
+    color: gray;
+    border-color: gray;
+    box-sizing: border-box;
+    line-height: 27px;
+    cursor: pointer;
 }
 
-.tiago{
-    font-size: 30px;
-    margin-right: 100px;
-    color:#fff;
-    
+button:hover {
+opacity: 0.8;
+
 }
 
-.familia1{
-    font-size: 30px;
-    color:#fff;
-    margin-right: 100px;
-    
-   
+button:active {
+opacity: 0.8;
+
 }
 
-.gisele{
-    font-size: 30px;
-    color:#fff;
-    margin-right: 100px;
-    
-}
-
-.pedro{
-    font-size: 30px;
-    color:#fff;
-    margin-right: 100px;
-  
-}
-
-.kids1{
-    font-size: 30px;
-    color:#fff;
-    margin-right: 100px;
-    
-}
